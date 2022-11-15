@@ -1,3 +1,8 @@
+body{
+    color: white;
+    
+}
+
 .div-secao-principal{
     background-image: url('../../img/fundo.jpg');
     background-color: #e5e5e5;
