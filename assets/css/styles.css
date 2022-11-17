@@ -1,6 +1,8 @@
 body{
     color: white;
-    
+    background-image: url(../../img/gradient.png);
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .div-secao-principal{
@@ -30,4 +32,18 @@ body{
 
 .conteudo{
     height: 1500px;
+}
+
+.backdrop-baixo-secao-principal{
+    bottom: 0px;
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to top, black 10%, transparent);
+}
+
+.backdrop-cima-secao-conteudo{
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, black 10%, transparent);
 }
