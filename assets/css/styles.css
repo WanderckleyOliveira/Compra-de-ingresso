@@ -31,7 +31,7 @@ body{
 }
 
 .conteudo{
-    height: 1500px;
+    height: 800px;
     color: white;
 }
 
@@ -50,11 +50,11 @@ body{
 }
 
 .div-ingresso{
-    margin-top: 230px;
+    margin-top: 80px;
 }
 
 .max-width{
-    max-width: 600px;
+    max-width: 800px;
 }
 
 .titulo-conteudo{
