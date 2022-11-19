@@ -22,16 +22,12 @@ Site criado para compra de ingresso simples desenvolvido usando as linguagens b√
 
   ## Imagem da vers√£o mobile
 
-<<<<<<< HEAD
- <div align="center">
-=======
 <div align="center">
->>>>>>> 7ba0dc599a2a35e4b9bfa2c1f2a405275b2d68c8
-<img src="https://user-images.githubusercontent.com/103123262/202828987-1709f618-177e-4ddb-8f61-cd627c1b7130.jpeg" width="500px" />
+  <img src="https://user-images.githubusercontent.com/103123262/202828987-1709f618-177e-4ddb-8f61-cd627c1b7130.jpeg" width="500px" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/103123262/202829023-aa73c82e-ca5f-4fa0-90b8-cb8cf7ae3e01.jpeg" width="500px" />
+  <img src="https://user-images.githubusercontent.com/103123262/202829023-aa73c82e-ca5f-4fa0-90b8-cb8cf7ae3e01.jpeg" width="500px" />
 </div>
 
  ## Lingaguem
