@@ -24,7 +24,7 @@ Site criado para compra de ingresso simples desenvolvido usando as linguagens b�
 - Design intuitivo
 - Iluistações
 
-## Imagem
+  ## Imagem
 
   ![primeira imagem](https://user-images.githubusercontent.com/103123262/202815740-413a51f9-1c66-4d2f-8cdc-5c1a69099e7e.jpg)
   
@@ -40,12 +40,21 @@ Site criado para compra de ingresso simples desenvolvido usando as linguagens b�
   <img src="https://user-images.githubusercontent.com/103123262/202829023-aa73c82e-ca5f-4fa0-90b8-cb8cf7ae3e01.jpeg" width="500px" />
 </div>
 
- ## Lingaguem
+   ## Lingaguem
  
  - HTML
  - CSS
 
-## Licença
+  ## Redes Sociais
+
+<a href="https://www.linkedin.com/in/wanderckley-oliveira-dev/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>  
+<a href="https://github.com/WanderckleyOliveira" alt="Linkedin">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p> 
+
+  ## Licença
 
 MIT
 
