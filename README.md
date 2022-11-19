@@ -1,6 +1,6 @@
  # Link 
 
- [Click e acesso o site do projeto](https://compra-de-ingresso.netlify.app/)
+ [Click e acesse o site do projeto](https://compra-de-ingresso.netlify.app/)
 
 
 # Compra-ingresso
