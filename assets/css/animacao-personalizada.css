@@ -1,0 +1,41 @@
+.rotacao{
+    animation: superman 10s ease-in-out infinite alternate;
+}
+
+@keyframes superman{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(8deg);
+    }
+}
+
+.rotacao-two{
+    animation: adam 10s ease-in-out infinite alternate;
+}
+
+@keyframes adam{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(8deg);
+    }
+}
+
+.brilhando-logo{
+    animation: brilhando 5s ease-in-out infinite;
+}
+
+@keyframes brilhando{
+    0%{
+        filter: brightness(1) contrast(1) saturate(1);
+    }
+    50%{
+        filter: brightness(1.1) contrast(1.1) saturate(1.1) drop-shadow(0px 0px 50px white);
+    }
+    100%{
+        filter: brightness(1.5) contrast(1.3) saturate(1.3) drop-shadow(0px 0px 90px white);
+    }
+}

@@ -1,0 +1,80 @@
+body{
+    color: white;
+    background-image: url(../../img/gradient.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.div-secao-principal{
+    background-image: url('../../img/fundo.jpg');
+    background-color: #e5e5e5;
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.img-superman{
+    width: 100%;
+    max-width: 530px;
+    min-width: 470px;
+    height: 600px;
+    mix-blend-mode: screen;
+}
+
+.img-adamnegro{
+    width: 100%;
+    height: 600px;
+    max-width: 580px;
+    min-width: 500px;
+    mix-blend-mode: screen;
+}
+
+.conteudo{
+    height: 800px;
+    color: white;
+}
+
+.backdrop-baixo-secao-principal{
+    bottom: 0px;
+    height: 100px;
+    width: 100%;
+    background-image: linear-gradient(to top, black 10%, transparent);
+}
+
+.backdrop-cima-secao-conteudo{
+    top: 0px;
+    height: 150px;
+    width: 100%;
+    background-image: linear-gradient(to bottom, black 10%, transparent);
+}
+
+.div-ingresso{
+    margin-top: 80px;
+    color: white;
+}
+
+.max-width{
+    max-width: 700px;
+}
+
+.titulo-conteudo{
+    font-size: 150%;
+}
+
+.img-titulo-filme{
+    max-width: 600px;
+    width: 100%;
+    mix-blend-mode: screen;
+}
+
+.btn-theme{
+    background: linear-gradient(345deg, rgb(73, 12, 176) 0%, rgb(155, 52, 239) 33%, rgba(255, 255, 255, 0) 66%, rgba(255, 255, 255, 0) 100%) 99% 50% / 400% 400%;
+    border: 2px solid transparent;
+    color: rgb(255, 255, 255);
+    padding: 5px 30px;
+    transition: all 0.5s ease 0s !important;
+    font-weight: 600;
+    border-radius: 30px;
+    text-transform: uppercase;
+}
