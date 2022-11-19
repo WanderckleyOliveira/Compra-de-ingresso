@@ -26,6 +26,7 @@ Site criado para compra de ingresso simples desenvolvido usando as linguagens b√
 
   ![WhatsApp Image 2022-11-18 at 21 57 11](https://user-images.githubusercontent.com/103123262/202829023-aa73c82e-ca5f-4fa0-90b8-cb8cf7ae3e01.jpeg)
     
+  <img src="primeia-imagem-sitemobile.jpeg">
 
  ## Lingaguem
  
